@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/technical_means", {data:[{}],fetch:{},mutations:void 0});

@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/services/guard_of_real_estate", {data:[{}],fetch:[],mutations:void 0});

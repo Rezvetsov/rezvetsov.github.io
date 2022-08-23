@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/services/guard_of_events", {data:[{}],fetch:{},mutations:void 0});

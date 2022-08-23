@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/services/cargo_escort", {data:[{}],fetch:{},mutations:void 0});
